@@ -14,6 +14,31 @@ A portfolio of **five collaborative engineering projects** exploring mechanical 
 | [Rotary Inverted Pendulum](projects/rotary-inverted-pendulum-control/) | MATLAB, system modeling, feedback control | State-feedback control and cascade-controller study; reference-model discrepancy documented |
 | [Brayton–Rankine Power Plant](projects/brayton-rankine-power-plant/) | Thermodynamics and energy systems | 100 MW design target; ~51% reported combined-cycle thermal efficiency |
 
+
+## Project visual gallery
+
+![IV bag lift schematic](projects/automated-iv-bag-lift/assets/system-overview.svg)
+
+[Automated IV Bag Lift and Monitoring System](projects/automated-iv-bag-lift/)
+
+![Stair climber schematic](projects/drill-powered-stair-climber/assets/mechanism-overview.svg)
+
+[Drill-Powered Stair Climber](projects/drill-powered-stair-climber/)
+
+![Klann linkage schematic](projects/klann-six-bar-walking-robot/assets/kinematics-overview.svg)
+
+[Klann Six-Bar Walking Robot](projects/klann-six-bar-walking-robot/)
+
+![Rotary inverted pendulum schematic](projects/rotary-inverted-pendulum-control/assets/control-overview.svg)
+
+[Rotary Inverted Pendulum](projects/rotary-inverted-pendulum-control/)
+
+![Combined-cycle schematic](projects/brayton-rankine-power-plant/assets/plant-overview.svg)
+
+[Brayton–Rankine Power Plant](projects/brayton-rankine-power-plant/)
+
+*The schematics are original simplified illustrations, not as-built CAD drawings or verified analysis plots.*
+
 ## Projects at a glance
 
 ### Automated IV Bag Lift and Monitoring
