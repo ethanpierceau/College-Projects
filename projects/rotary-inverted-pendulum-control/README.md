@@ -1,5 +1,9 @@
 # Rotary Inverted Pendulum — Modeling and Feedback Control
 
+![Conceptual engineering schematic](assets/control-overview.svg)
+
+> Diagram is an original simplified illustration of the documented system; it is not a CAD export or validated engineering drawing.
+
 **Focus:** MATLAB · Dynamic Systems · Lagrangian Mechanics · Feedback Control
 
 ## Objective
