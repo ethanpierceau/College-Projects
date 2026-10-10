@@ -1,6 +1,6 @@
 # Brayton–Rankine Combined-Cycle Power Plant
 
-![Conceptual engineering schematic](assets/prewview.jpg)
+![Conceptual engineering schematic](assets/preview.jpg)
 
 > Diagram is an original image based on a combined Brayton and Rankine cycle.
 
