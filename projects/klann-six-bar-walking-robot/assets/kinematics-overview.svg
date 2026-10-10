@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="470" viewBox="0 0 1100 470" role="img" aria-label="Klann Six-Bar Walking Mechanism">
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10z" fill="#5eead4"/></marker></defs>
+<rect width="1100" height="470" rx="24" fill="#0c1528"/><rect x="20" y="20" width="1060" height="430" rx="17" fill="#14213a" stroke="#334155"/>
+<text x="54" y="68" font-family="Arial,Helvetica,sans-serif" fill="#f1f5f9" font-size="29" font-weight="700">Klann Six-Bar Walking Mechanism</text>
+<text x="54" y="96" font-family="Arial,Helvetica,sans-serif" fill="#94a3b8" font-size="16">Planar linkage • force transmission • locomotion study</text>
+<path d="M54 117H1046" stroke="#334155" stroke-width="1.5"/>
+
+<path d="M102 336L669 336" stroke="#66778f" stroke-width="2" fill="none"/>
+<path d="M160 270L345 210L450 275L562 174L610 316L450 275L350 339L160 270" fill="none" stroke="#e2e8f0" stroke-width="9" stroke-linejoin="round"/>
+<path d="M160 270L345 210" stroke="#5eead4" stroke-width="10"/>
+<path d="M345 210L450 275L610 316" stroke="#fbbf24" stroke-width="9"/>
+<path d="M450 275L562 174" stroke="#fb923c" stroke-width="9"/>
+<circle cx="160" cy="270" r="13" fill="#0c1528" stroke="#e2e8f0" stroke-width="5"/>
+<circle cx="350" cy="339" r="11" fill="#0c1528" stroke="#e2e8f0" stroke-width="5"/>
+<circle cx="562" cy="174" r="11" fill="#0c1528" stroke="#e2e8f0" stroke-width="5"/>
+<circle cx="610" cy="316" r="13" fill="#0c1528" stroke="#5eead4" stroke-width="5"/>
+<text x="141" y="248" font-size="18" font-family="Arial,Helvetica,sans-serif" fill="#5eead4" text-anchor="start">O2</text><text x="326" y="368" font-size="18" font-family="Arial,Helvetica,sans-serif" fill="#e2e8f0" text-anchor="start">O4</text><text x="550" y="152" font-size="18" font-family="Arial,Helvetica,sans-serif" fill="#e2e8f0" text-anchor="start">O5</text><text x="629" y="319" font-size="18" font-family="Arial,Helvetica,sans-serif" fill="#5eead4" text-anchor="start">Foot E</text>
+<path d="M392 318C460 370 555 380 632 333C645 285 589 225 516 260" fill="none" stroke="#5eead4" stroke-width="3" stroke-dasharray="8 6"/>
+<rect x="743" y="149" width="282" height="76" rx="10" fill="#233a59" stroke="#526781" stroke-width="2"/><text x="763" y="180" font-size="19" font-family="Arial,Helvetica,sans-serif" fill="#e2e8f0" text-anchor="start">18 RPM input crank</text><text x="763" y="203" font-size="15" font-family="Arial,Helvetica,sans-serif" fill="#94a3b8" text-anchor="start">Link displacement &amp; torque</text>
+<rect x="743" y="245" width="282" height="100" rx="9" fill="#203f43" stroke="#0d9488" stroke-width="2"/><text x="763" y="274" font-size="18" font-family="Arial,Helvetica,sans-serif" fill="#5eead4" text-anchor="start">8-legged CAD assembly</text><text x="763" y="301" font-size="16" font-family="Arial,Helvetica,sans-serif" fill="#e2e8f0" text-anchor="start">Simulated walking gait</text><text x="763" y="325" font-size="15" font-family="Arial,Helvetica,sans-serif" fill="#e2e8f0" text-anchor="start">0–30 RPM speed study</text>
+
+<path d="M54 410H1046" stroke="#334155" stroke-width="1.5"/>
+<text x="54" y="438" font-family="Arial,Helvetica,sans-serif" fill="#cbd5e1" font-size="15">Foot–ground interaction modeled: 8 lbf normal + 1 lbf friction</text><text x="1038" y="438" font-family="Arial,Helvetica,sans-serif" fill="#64748b" font-size="12" text-anchor="end">Conceptual schematic · Not to scale</text>
+</svg>
