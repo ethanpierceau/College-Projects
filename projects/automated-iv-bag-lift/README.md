@@ -1,6 +1,6 @@
 # Automated IV Bag Lift and Monitoring System
 
-![Conceptual engineering schematic](assets/system-overview.svg)
+![Conceptual engineering schematic](assets/preview.jpg)
 
 > Diagram is an original simplified illustration of the documented system; it is not a CAD export or validated engineering drawing.
 
