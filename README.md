@@ -17,15 +17,15 @@ A portfolio of **five collaborative engineering projects** exploring mechanical 
 
 ## Project visual gallery
 
-![IV bag lift schematic](projects/automated-iv-bag-lift/assets/system-overview.svg)
+![IV bag lift schematic](projects/automated-iv-bag-lift/assets/preview.jpg)
 
 [Automated IV Bag Lift and Monitoring System](projects/automated-iv-bag-lift/)
 
-![Stair climber schematic](projects/drill-powered-stair-climber/assets/mechanism-overview.svg)
+![Stair climber schematic](projects/drill-powered-stair-climber/assets/CADWheeledAssemblywithTowBar.png)
 
 [Drill-Powered Stair Climber](projects/drill-powered-stair-climber/)
 
-![Klann linkage schematic](projects/klann-six-bar-walking-robot/assets/kinematics-overview.svg)
+![Klann linkage schematic](projects/klann-six-bar-walking-robot/assets/preview.jpg)
 
 [Klann Six-Bar Walking Robot](projects/klann-six-bar-walking-robot/)
 
@@ -33,7 +33,7 @@ A portfolio of **five collaborative engineering projects** exploring mechanical 
 
 [Rotary Inverted Pendulum](projects/rotary-inverted-pendulum-control/)
 
-![Combined-cycle schematic](projects/brayton-rankine-power-plant/assets/plant-overview.svg)
+![Combined-cycle schematic](projects/brayton-rankine-power-plant/assets/preview.png)
 
 [Brayton–Rankine Power Plant](projects/brayton-rankine-power-plant/)
 
