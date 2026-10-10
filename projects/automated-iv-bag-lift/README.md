@@ -2,7 +2,7 @@
 
 ![Conceptual engineering schematic](assets/preview.jpg)
 
-> Diagram is an original simplified illustration of the documented system; it is not a CAD export or validated engineering drawing.
+> Diagram is the original CAD model.
 
 **Focus:** Mechatronics · Arduino · Sensors · CAD · FEA
 
