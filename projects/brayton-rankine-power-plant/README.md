@@ -1,5 +1,9 @@
 # Brayton–Rankine Combined-Cycle Power Plant
 
+![Conceptual engineering schematic](assets/plant-overview.svg)
+
+> Diagram is an original simplified illustration of the documented system; it is not a CAD export or validated engineering drawing.
+
 **Focus:** Thermodynamics · Thermal Design · Power Systems · Energy Analysis
 
 ## Objective
