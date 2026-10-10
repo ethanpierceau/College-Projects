@@ -1,6 +1,6 @@
 # Drill-Powered Stair-Climbing Mechanism
 
-![Conceptual engineering schematic](assets/CAD Wheeled Assembly with Tow Bar.png)
+![Conceptual engineering schematic](assets/CADWheeledAssemblywithTowBar.png)
 
 > Diagram is a generated image based on CAD Drawing
 
