@@ -1,5 +1,9 @@
 # Automated IV Bag Lift and Monitoring System
 
+![Conceptual engineering schematic](assets/system-overview.svg)
+
+> Diagram is an original simplified illustration of the documented system; it is not a CAD export or validated engineering drawing.
+
 **Focus:** Mechatronics · Arduino · Sensors · CAD · FEA
 
 ## Objective
