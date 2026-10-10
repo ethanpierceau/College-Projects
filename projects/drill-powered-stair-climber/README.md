@@ -1,6 +1,6 @@
 # Drill-Powered Stair-Climbing Mechanism
 
-![Conceptual engineering schematic](assets/mechanism-overview.svg)
+![Conceptual engineering schematic](assets/preview)
 
 > Diagram is an original simplified illustration of the documented system; it is not a CAD export or validated engineering drawing.
 
