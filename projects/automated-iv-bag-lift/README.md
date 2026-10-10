@@ -6,6 +6,10 @@
 
 **Focus:** Mechatronics · Arduino · Sensors · CAD · FEA
 
+## My contributions and team credit
+- **My contributions:** Developed the project's programming and all electronics, including sensor and motor-control integration.
+- **Team work:** Mechanical design, prototyping and testing were collaborative. The final report credits Ian Bolinger, Preston Daily, Andy Zheng and Jack Shanahan alongside Ethan Pierce.
+
 ## Objective
 Develop a low-cost motorized IV bag lift that detects bag weight and adjusts bag height automatically to reduce repetitive reaching and bending. This is an academic proof-of-concept, **not a clinically approved device**.
 
