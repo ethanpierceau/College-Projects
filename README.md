@@ -33,7 +33,7 @@ A portfolio of **five collaborative engineering projects** exploring mechanical 
 
 [Rotary Inverted Pendulum](projects/rotary-inverted-pendulum-control/)
 
-![Combined-cycle schematic](projects/brayton-rankine-power-plant/assets/preview.png)
+![Combined-cycle schematic](projects/brayton-rankine-power-plant/assets/preview.jpg)
 
 [Brayton–Rankine Power Plant](projects/brayton-rankine-power-plant/)
 
