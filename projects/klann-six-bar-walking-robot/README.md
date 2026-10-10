@@ -1,8 +1,8 @@
 # Klann Six-Bar Walking Robot
 
-![Conceptual engineering schematic](assets/kinematics-overview.svg)
+![Conceptual engineering schematic](assets/preview.jpg)
 
-> Diagram is an original simplified illustration of the documented system; it is not a CAD export or validated engineering drawing.
+> Image is a taken screenshot during the animation video through SolidWorks
 
 **Focus:** Robotics · Kinematics · Rigid-Body Dynamics · SolidWorks Simulation
 
